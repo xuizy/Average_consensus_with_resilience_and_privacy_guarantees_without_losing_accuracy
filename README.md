@@ -1,6 +1,6 @@
-# Average consensus with resilience and_privacy guarantees without losing accuracy
+# Average consensus with resilience and privacy guarantees without losing accuracy
 
-This repository contains the implementation of the methodology proposed in the paper titled **"Private and Resilient Average Consensus in Networked Agents"**. This paper addresses the challenge of achieving private and resilient average consensus among a group of discrete-time networked agents without losing accuracy. To use this work please cite the following:
+This repository contains the implementation of the methodology proposed in the paper titled **"Average consensus with resilience and privacy guarantees without losing accuracy"**. This paper addresses the challenge of achieving private and resilient average consensus among a group of discrete-time networked agents without losing accuracy. To use this work please cite the following:
 
 [TO_INSERT_BIBTEX_ENTRY]
 
