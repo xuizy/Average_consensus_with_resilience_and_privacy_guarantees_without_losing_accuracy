@@ -6,7 +6,7 @@ This repository contains the implementation of the methodology proposed in the p
 
 ## Overview
 
-State-of-the-art (SOTA) solutions to attain privacy and resilient consensus often involve a trade-off between privacy and resilience, compromising on accuracy. Our work proposes a methodology that avoids these trade-offs, maintaining resilience, privacy, and accuracy simultaneously.
+State-of-the-art solutions to attain privacy and resilient consensus often involve a trade-off between privacy and resilience, compromising on accuracy. Our work proposes a methodology that avoids these trade-offs, maintaining resilience, privacy, and accuracy simultaneously.
 
 ### Key Features
 
